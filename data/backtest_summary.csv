@@ -1,0 +1,21 @@
+asset,model,exceptions_%,kupiec_p,christoffersen_p,last_250,basel
+Bancolombia,HS,1.49,0.009,0.006,3,green
+Bancolombia,Normal,1.93,0.0,0.0,4,green
+Bancolombia,EWMA,1.58,0.002,0.254,3,green
+Bancolombia,GARCH-t,1.09,0.625,0.398,3,green
+Ecopetrol,HS,1.37,0.048,0.003,2,green
+Ecopetrol,Normal,2.17,0.0,0.0,4,green
+Ecopetrol,EWMA,1.99,0.0,0.543,1,green
+Ecopetrol,GARCH-t,1.34,0.069,0.606,2,green
+CAC 40,HS,1.49,0.008,0.0,1,green
+CAC 40,Normal,2.41,0.0,0.0,2,green
+CAC 40,EWMA,2.53,0.0,0.079,7,yellow
+CAC 40,GARCH-t,1.68,0.0,0.079,6,yellow
+S&P 500,HS,1.43,0.022,0.0,0,green
+S&P 500,Normal,2.8,0.0,0.0,1,green
+S&P 500,EWMA,2.33,0.0,0.038,2,green
+S&P 500,GARCH-t,1.61,0.001,0.061,2,green
+Euro Stoxx 50,HS,1.31,0.093,0.0,1,green
+Euro Stoxx 50,Normal,2.37,0.0,0.0,2,green
+Euro Stoxx 50,EWMA,2.31,0.0,0.035,4,green
+Euro Stoxx 50,GARCH-t,1.59,0.002,0.056,3,green
